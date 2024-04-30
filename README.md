@@ -1,8 +1,8 @@
 # PHPMotors
 - This is a demo website that shows MVC architecture, using tutorials available from BYU-Idaho here: https://ammonshepherd.github.io/340br/assignments.html
-- Temporarily available at http://76.111.21.102/pmamp/phpmotors/
+- Website running at http://76.111.21.102/pmamp/phpmotors/
 
-# How To Run It
+# How To Run It Yourself
 - Follow the instructions to setup XAMPP if you don't have it yet
 - Clone this repo into your htdocs (it should create a folder called phpmotors inside htdocs).
 - Start your MySQL server in the XAMPP admin panel.
